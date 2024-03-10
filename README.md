@@ -39,4 +39,4 @@ report/ # Folder containing the project report in .docx format and .pdf format.
 For any further questions or collaboration opportunities, please reach out to me at:
 - Email: [candy0979438843@gmail.com](mailto:candy0979438843@gmail.com)
 - LinkedIn: [Iris Kuo](http://linkedin.com/in/依璇-郭-835b00268)
-- GitHub: [Iris Kuo](https://github.com/turtle910531)
+- GitHub: [Iris Kuo](https://github.com/Iris910531)
