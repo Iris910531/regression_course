@@ -24,6 +24,16 @@ data/ # Folder containing the dataset(s).
 code/ # Folder containing SAS code files.
 report/ # Folder containing the project report in .docx format and .pdf format.
 
+## Project Structure
+
+```plaintext
+SAS_course/
+├── code/                  # Folder containing SAS code files.
+├── data/                  # Folder containing .csv data.
+├── report/                # Folder containing the project report details in .docx format.
+└── README.md              # This file.
+```
+
 
 ## How to Use
 
@@ -37,6 +47,6 @@ report/ # Folder containing the project report in .docx format and .pdf format.
 ## Contact Information
 
 For any further questions or collaboration opportunities, please reach out to me at:
-- Email: [candy0979438843@gmail.com](mailto:candy0979438843@gmail.com)
-- LinkedIn: [Iris Kuo](http://linkedin.com/in/依璇-郭-835b00268)
+- Email: [yguo8395@gmail.com](mailto:yguo8395@gmail.com)
+- LinkedIn: [Iris Kuo](https://www.linkedin.com/in/yi-hsuan-kuo-835b00268/)
 - GitHub: [Iris Kuo](https://github.com/Iris910531)
